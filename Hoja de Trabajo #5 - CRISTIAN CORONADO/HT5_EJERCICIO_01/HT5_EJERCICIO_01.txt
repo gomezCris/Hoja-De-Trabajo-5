@@ -1,0 +1,7 @@
+Residencial	A	Terreno	2100	6300
+Residencial	A	Casa	2500	7500
+Comercial	A	Casa	2500	5000
+Comercial	B	Departamento	1200	6000
+Residencial	A	Terreno	2100	12600
+Residencial	B	Casa	1600	4800
+Comercial	A	Terreno	2200	55000
